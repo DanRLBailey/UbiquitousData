@@ -21,8 +21,8 @@
       "dirty": ["black", "black", "pink", "purple", "green", "red", "red", "blue"]
     },
     "shoes": {
-      clean": ["black", "black", "white"],
-      dirty": ["white"]
+      "clean": ["black", "black", "white"],
+      "dirty": ["white"]
     }
   }
 }
