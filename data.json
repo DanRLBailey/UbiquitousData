@@ -1,0 +1,28 @@
+{
+  "styles": {
+    "hats": {
+      "clean": ["black", "black", "green"],
+      "dirty": ["black", "pink"]
+    },
+    "tops": {
+      "clean": ["black", "black", "black", "black", "white", "white", "pink", "orange", "blue"],
+      "dirty": ["black", "white", "purple", "pink", "green"]
+    },
+    "jackets": {
+      "clean": ["black", "white", "white", "pink"],
+      "dirty": ["black"]
+    },
+    "bottoms": {
+      "clean": ["black", "blue", "blue", "blue", "red"],
+      "dirty": ["black", "white", "white", "blue"]
+    },
+    "underwear": {
+      "clean": ["black", "black", "white", "white", "yellow", "yellow", "purple", "pink", "blue"],
+      "dirty": ["black", "black", "pink", "purple", "green", "red", "red", "blue"]
+    },
+    "shoes": {
+      clean": ["black", "black", "white"],
+      dirty": ["white"]
+    }
+  }
+}
