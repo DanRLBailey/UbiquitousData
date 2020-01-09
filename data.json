@@ -26,13 +26,9 @@
     }
   },
   "occasion": {
-    "formal": {
-    },
-    "casual": {
-    },
-    "loungewear": {
-    },
-    "sportswear": {
-    }
+    "formal": ["wedding", "work-do", "funeral", "christening", "interview"],
+    "casual": ["party", "school", "work"],
+    "loungewear": ["sleeping", "sleep", "lounge", "lounging"],
+    "sportswear": ["gym", "exercise", "running"]
   }
 }
